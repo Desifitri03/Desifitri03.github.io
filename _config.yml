@@ -5,7 +5,7 @@ description:        "Information System - Islamic University of Sultan Syarif Ka
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/index.jpg'
+background:         'assets/img/research-mobile-apps.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://desifitri03.github.io/
