@@ -28,8 +28,8 @@ date: 2016-03-21
 Nama saya adala Desi Fitri, biasa di panggil "Desi" atau teman-teman yang lain biasa juga memanggil "Decot". Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">UIN SUSKA RIAU</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>.
 
 <audio controls autoplay> 
-<source src="http://Desifitri03.github.io/Remixed - Upin & Ipin - Atuk Oh Atuk Disco Remix  - www" type="audio/wav"> 
-<source src="http://Desifitri03.github.io/Remixed - Upin & Ipin - Atuk Oh Atuk Disco Remix  - www" type="audio/mpeg"> 
+<source src="http://Desifitri03.github.io/salam_alaikom.mp3" type="audio/wav"> 
+<source src="http://Desifitri03.github.io/salam_alaikom.mp3" type="audio/mpeg"> 
 </audio>
       
 <center><b>Terimakasih</b></center>
