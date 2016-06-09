@@ -20,12 +20,12 @@ date: 2016-03-21
 * Kelas : SIF’B 
 * Jurusan : <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
 * Fakultas : <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
-* Universitas : <a href="htpp://uin-suska.ac.id/">UIN SUSKA Riau</a>
+* Universitas : <a href="htpp://uin-suska.ac.id/">UIN SUSKA RiAU</a>
 
 
 ## Greatings
 
-Nama saya adala Desi Fitri, biasa di panggil "Desi" atau teman-teman yang lain biasa juga memanggil "Decot". Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>.
+Nama saya adala Desi Fitri, biasa di panggil "Desi" atau teman-teman yang lain biasa juga memanggil "Decot". Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">UIN SUSKA RiAU</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>.
 
 <audio controls autoplay> 
 <source src="http://Desifitri03.github.io/Remixed - Upin & Ipin - Atuk Oh Atuk Disco Remix  - www" type="audio/wav"> 
